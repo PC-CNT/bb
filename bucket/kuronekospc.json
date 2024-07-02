@@ -1,0 +1,15 @@
+{
+    "version": "240310",
+    "description": "ZSNESやSNES9X等出力できる*.spcのプレーヤです。",
+    "homepage": "https://kurohane.net/",
+    "license": "Freeware",
+    "url": "https://kurohane.net/archive/kuronekospc_240310.zip",
+    "hash": "6C588371DF825069D3F1A816439BAC4CAC3A65FE6ECF67F2288F693D4347CD6B",
+    "bin": "KuronekoSPC.exe",
+    "shortcuts": [
+        [
+            "KuronekoSPC.exe",
+            "KuronekoSPC"
+        ]
+    ]
+}
