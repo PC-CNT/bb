@@ -7,6 +7,9 @@
 追加
 `scoop bucket add bb https://github.com/PC-CNT/bb`
 
+更新
+`scoop update`
+
 削除
 `scoop bucket rm bb`
 
