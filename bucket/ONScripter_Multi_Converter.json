@@ -1,0 +1,52 @@
+{
+    "version": "2.4.2",
+    "description": "ONS向け画像/音源/動画&シナリオ変換ツール",
+    "homepage": "https://github.com/Prince-of-sea/ONScripter_Multi_Converter",
+    "license": "MIT License",
+    "notes": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Prince-of-sea/ONScripter_Multi_Converter/releases/download/v2.4.2/ONScripter_Multi_Converter.exe",
+            "hash": "3AE57ED247084AB223D7863F5AC51CD83FEF667451ECDD0343BA120E15B8B9AB"
+        }
+    },
+    "pre_install": "",
+    "installer": {
+        "script": ""
+    },
+    "post_install": [
+        "",
+        ""
+    ],
+    "uninstaller": {
+        "script": ""
+    },
+    "bin": "",
+    "env_add_path": [
+        "",
+        ""
+    ],
+    "persist": [
+        "",
+        ""
+    ],
+    "shortcuts": [
+        [
+            "ONScripter_Multi_Converter.exe",
+            "ONScripter_Multi_Converter"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/Prince-of-sea/ONScripter_Multi_Converter"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/Prince-of-sea/ONScripter_Multi_Converter/releases/download/v$version/ONScripter_Multi_Converter.exe",
+                "hash": {
+                    "url": "$url.sha256sum"
+                }
+            }
+        }
+    }
+}
