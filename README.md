@@ -4,13 +4,13 @@
 
 ## つかいかた
 
-追加
+追加  
 `scoop bucket add bb https://github.com/PC-CNT/bb`
 
-更新
+更新  
 `scoop update`
 
-削除
+削除  
 `scoop bucket rm bb`
 
 ## リスト
