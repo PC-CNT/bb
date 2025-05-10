@@ -10,26 +10,12 @@
             "hash": "35167603434d8530706b9bd7dcbca6350288cc345bc287a50db0fc2a009fbb8c"
         }
     },
-    "pre_install": "",
-    "installer": {
-        "script": ""
-    },
-    "post_install": [
-        "",
-        ""
+    "pre_install": [
+        "mkdir \"$dir\\tools\""
     ],
     "uninstaller": {
-        "script": ""
+        "script": "Remove-Item \"$dir\\tools\" -Force -Recurse"
     },
-    "bin": "",
-    "env_add_path": [
-        "",
-        ""
-    ],
-    "persist": [
-        "",
-        ""
-    ],
     "shortcuts": [
         [
             "ONScripter_Multi_Converter.exe",
