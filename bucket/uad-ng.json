@@ -1,12 +1,12 @@
 {
-    "version": "v1.1.2",
+    "version": "1.1.2",
     "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
     "homepage": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
     "license": "GPL-3.0 license",
     "architecture": {
         "64bit": {
             "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/releases/download/v1.1.2/uad-ng-windows.exe",
-            "hash": "ECCDD8E05184388F2038E652AFE3A77E1F6ABC9D13E9FB21AAD59CD6A924CB03"
+            "hash": "eccdd8e05184388f2038e652afe3a77e1f6abc9d13e9fb21aad59cd6a924cb03"
         }
     },
     "shortcuts": [
