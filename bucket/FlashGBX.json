@@ -1,0 +1,28 @@
+{
+    "version": "4.4",
+    "description": "Reads and writes Game Boy and Game Boy Advance cartridge data. Supported hardware: GBxCart RW, GBFlash, Joey Jr",
+    "homepage": "https://github.com/lesserkuma/FlashGBX",
+    "license": "GPL-3.0 license",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lesserkuma/FlashGBX/releases/download/4.4/FlashGBX_4.4_Windows_Portable.zip",
+            "hash": "9CA1E4D0533D9252065C8B62424B4A83EAECDCD43397AB95CB370A4AAD94A836"
+        }
+    },
+    "shortcuts": [
+        [
+            "FlashGBX.exe",
+            "FlashGBX"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/lesserkuma/FlashGBX"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/lesserkuma/FlashGBX/releases/download/$version/FlashGBX_$version_Windows_Portable.zip"
+            }
+        }
+    }
+}
