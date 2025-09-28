@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/hovancik/stretchly/releases/download/$version/Stretchly-$version-win.7z"
+                "url": "https://github.com/hovancik/stretchly/releases/download/v$version/Stretchly-$version-win.7z"
             }
         }
     }
