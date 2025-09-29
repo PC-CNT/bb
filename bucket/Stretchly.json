@@ -1,13 +1,13 @@
 {
-    "version": "1.17.2",
+    "version": "1.18.1",
     "description": "The break time reminder app",
     "homepage": "https://github.com/hovancik/stretchly",
     "license": "BSD-2-Clause license",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hovancik/stretchly/releases/download/v1.17.2/Stretchly-1.17.2-win.7z",
-            "hash": "31BF5A1D93504AF1F0B14FCECA1A2995108755F99CFCE6D30CDAB5BC1A453A06",
+            "url": "https://github.com/hovancik/stretchly/releases/download/v1.18.1/Stretchly-1.18.1-win.7z",
+            "hash": "bc23ee088b9ef698ba36a1974a94a7dfc18c599243dd04fce39330dc225a2f5d",
             "extract_to": ""
         }
     },
