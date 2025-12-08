@@ -1,13 +1,13 @@
 {
-    "version": "2025.11.28",
+    "version": "2025.12.08",
     "description": "gallery-dl builds",
     "homepage": "https://github.com/gdl-org/builds",
     "license": "Freeware",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gdl-org/builds/releases/download/2025.11.28/gallery-dl_windows.exe",
-            "hash": "f3b43cd7490e3b2ef50c2f71252762644dac7fced0e2b2f7d63401c82b97e309"
+            "url": "https://github.com/gdl-org/builds/releases/download/2025.12.08/gallery-dl_windows.exe",
+            "hash": "1ff38e99f1ac6b1039afccd00eebb06c73f4901036f4f5402b4b9035784c90c1"
         }
     },
     "bin": "gdl.exe",
