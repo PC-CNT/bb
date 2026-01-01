@@ -1,17 +1,17 @@
 {
-    "version": "3.7.6",
+    "version": "3.8.2",
     "description": "Mery Text Editor",
     "homepage": "https://www.haijin-boys.com/",
     "license": "Freeware",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://www.haijin-boys.com/download/Mery-x64-3.7.6.zip",
-            "hash": "06cc944b02b76314a25624b193e0064b74dad0e2f66e2c95ff4484763f23a73f"
+            "url": "https://www.haijin-boys.com/download/Mery-x64-3.8.2.zip",
+            "hash": "9263b97d7d658f467cf2e719a472d8aececf4d8034c1500e6aeef129de9bca6e"
         },
         "32bit": {
-            "url": "https://www.haijin-boys.com/download/Mery-3.7.6.zip",
-            "hash": "cde5d26331ea66d02276f21e15495bda41a4e6db76e4581d2644e882ab814007"
+            "url": "https://www.haijin-boys.com/download/Mery-3.8.2.zip",
+            "hash": "24cec8e52141f215215710f013c8f6c2ad3953aca5b2a5160acc239867ba3b0f"
         }
     },
     "extract_dir": "Mery",
