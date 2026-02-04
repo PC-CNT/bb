@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/gdl-org/builds/releases/download/2026.02.02/gallery-dl_windows.exe",
-            "hash": "9929f601c4f0a698891f49c6f63e6eb681adaf04ab545f8ca8eaf1ac9f463f64"
+            "hash": "A90F2E921CF0C579F277491014A11116A855D8E4990941F97BE775A76A1C9B6C"
         }
     },
     "bin": "gdl.exe",
