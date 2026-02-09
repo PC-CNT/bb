@@ -1,12 +1,12 @@
 {
-    "version": "1.10.4.0",
+    "version": "1.11.1.0",
     "description": "らじるらじる、radiko.jpのラジオ放送が「らじれこ」で聴けます。",
     "homepage": "https://dogaradi.com/",
     "license": "freeware",
     "architecture": {
         "64bit": {
             "url": "https://dogaraag.temporarydomain.net/download/installer/radirec/win/RadiRec.zip",
-            "hash": "346355dd08a3175785e86175d6a4bebcd28d422d9a16dd972472a8683c0da597"
+            "hash": "39668849e9e8a889c2c6cfb74b46d67680e61296392be36ef8e6c619f3506e2e"
         }
     },
     "extract_to": "",
