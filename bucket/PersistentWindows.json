@@ -1,12 +1,12 @@
 {
-    "version": "5.75",
+    "version": "5.76",
     "description": "This project addresses a long-standing issue in Windows 7, 10, and 11, where windows get repositioned after events such as the system waking up, external monitor connections or disconnections, changes in monitor resolution (e.g., exiting full-screen gaming), or during RDP reconnections.",
     "homepage": "https://github.com/kangyu-california/PersistentWindows",
     "license": "GPL-3.0 license",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kangyu-california/PersistentWindows/releases/download/5.75/PersistentWindows5.75.zip",
-            "hash": "85c78f1fc151118a0ace4fa092c863b5a030f127db5363ad49d46da69fefc855"
+            "url": "https://github.com/kangyu-california/PersistentWindows/releases/download/5.76/PersistentWindows5.76.zip",
+            "hash": "bbf8ed2eb3e662d6f9dc35b85047ad52bd4c793afcf1951afd0c9599c7403c79"
         }
     },
     "shortcuts": [
