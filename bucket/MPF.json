@@ -16,6 +16,9 @@
             "Media Preservation Frontend (MPF)"
         ]
     ],
+    "persist": [
+        "config.json"
+    ],
     "checkver": {
         "github": "https://github.com/SabreTools/MPF"
     },
