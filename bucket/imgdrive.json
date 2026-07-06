@@ -20,9 +20,7 @@
             "ImgDrive"
         ]
     ],
-    "persist": [
-        "imgdrive.ini"
-    ],
+    "persist": "imgdrive.ini",
     "autoupdate": {
         "architecture": {
             "64bit": {
