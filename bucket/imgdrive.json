@@ -23,6 +23,9 @@
     "persist": [
         "imgdrive.ini"
     ],
+    "pre_install": [
+        "if (!(Test-Path \"$persist_dir\\imgdrive.ini\")) { New-Item -Path \"$persist_dir\\imgdrive.ini\" -ItemType File -Force | Out-Null }"
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
