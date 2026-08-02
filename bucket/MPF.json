@@ -18,9 +18,7 @@
     ],
     "persist": "config.json",
     "pre_install": [
-        "if (!(Test-Path \"$persist_dir\\config.json\")) {",
-        "   New-Item -Path \"$dir\\config.json\" -ItemType File | Out-Null",
-        "}"
+        "if (!(Test-Path \"$persist_dir\\config.json\")) { New-Item -Path \"$persist_dir\\config.json\" -ItemType File -Force | Out-Null }"
     ],
     "checkver": {
         "github": "https://github.com/SabreTools/MPF"
