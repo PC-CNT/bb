@@ -1,13 +1,13 @@
 {
-    "version": "3.8.3",
+    "version": "3.9.0",
     "description": "Redumper/Aaru/DiscImageCreator GUI in C#",
     "homepage": "https://github.com/SabreTools/MPF",
     "license": "GPL-3.0 license",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SabreTools/MPF/releases/download/3.8.3/MPF.UI_3.8.3_net10.0-windows_win-x64_release.zip",
-            "hash": "5bd97eb599d238faa1b5f7df893ca61b0c6fc5c860df789f42ff37866a728b88"
+            "url": "https://github.com/SabreTools/MPF/releases/download/3.9.0/MPF.UI_3.9.0_net10.0-windows_win-x64_release.zip",
+            "hash": "b7656c81ae0ceb4b3e99bbe40116c69d7a65d96009182c8213c02e3a39ebeb22"
         }
     },
     "shortcuts": [
