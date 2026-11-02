@@ -1,12 +1,12 @@
 {
-    "version": "1.5.2",
+    "version": "1.6.0",
     "description": "Static low-bandwidth search at scale",
     "homepage": "https://github.com/cloudcannon/pagefind",
     "license": "MIT license",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CloudCannon/pagefind/releases/download/v1.5.2/pagefind_extended-v1.5.2-x86_64-pc-windows-msvc.tar.gz",
-            "hash": "7ba298054764dfb3c5b982a1eb92607bea8ecaec20a923fc8a4dfd68272ae8a2"
+            "url": "https://github.com/CloudCannon/pagefind/releases/download/v1.6.0/pagefind_extended-v1.6.0-x86_64-pc-windows-msvc.tar.gz",
+            "hash": "e7abb1f50f89a2c96913bb18400d1fbcb2bbd7933d2589642fe6b5506ac5471b"
         }
     },
     "pre_install": [
